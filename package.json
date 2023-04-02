@@ -1,12 +1,12 @@
 {
-  "name": "vscode-benthos",
-  "displayName": "Benthos",
+  "name": "vsc-benthos",
+  "displayName": "Benthos language support",
   "description": "Benthos and bloblang support in VS Code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": "Georges Haidar",
   "homepage": "https://benthos.dev",
-  "icon": "icon.png",
+  "publisher": "GeorgesHaidar",
   "repository": {
     "type": "git",
     "url": "https://github.com/benthosdev/vscode-benthos"
