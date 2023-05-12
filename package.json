@@ -2,7 +2,7 @@
   "name": "vsc-benthos",
   "displayName": "Benthos language support",
   "description": "Benthos and bloblang support in VS Code",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "author": "Georges Haidar",
   "homepage": "https://benthos.dev",
